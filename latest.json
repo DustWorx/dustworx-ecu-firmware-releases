@@ -2,6 +2,6 @@
   "product": "dustworx-ecu",
   "hardware": "pico2w-waveshare35",
   "channel": "stable",
-  "latest_version": "v0.18.22-ota-manifest-verify",
-  "manifest_url": "https://raw.githubusercontent.com/DustWorx/dustworx-ecu-firmware-releases/main/manifests/dustworx-ecu-v0.18.22-ota-manifest-verify.manifest.json"
+  "latest_version": "",
+  "manifest_url": ""
 }
