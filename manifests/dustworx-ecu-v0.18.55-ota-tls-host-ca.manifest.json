@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v0.18.55-ota-tls-host-ca",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v0.18.55-ota-tls-host-ca/dustworx-ecu-v0.18.55-ota-tls-host-ca.bin",
+  "firmware_size": 1166460,
+  "firmware_sha256": "162e65ad1f67dd315cbfe3b924654763bbd63903a649353d2044f10c5e252e90",
+  "rollback_allowed": true,
+  "release_notes": "Fix OTA TLS trust anchors for current GitHub certificate chains",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEYCIQC5p4EWm06qbyjCMD3P1udo7WWxl7zPqY5cJqmSkSaktAIhAPB7c3rT2lVMq2gIHxRA48qcPsEDsEe7DU7dLOLLOXBJ"
+}
