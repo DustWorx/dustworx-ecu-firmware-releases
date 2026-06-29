@@ -1,7 +1,7 @@
 {
-    "product":  "dustworx-ecu",
-    "hardware":  "pico2w-waveshare35",
-    "channel":  "stable",
-    "latest_version":  "v0.18.48-ota-ab-final",
-    "manifest_url":  "https://raw.githubusercontent.com/DustWorx/dustworx-ecu-firmware-releases/main/manifests/dustworx-ecu-v0.18.48-ota-ab-final.manifest.json"
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "latest_version": "v0.18.51-true-watchdog-ota",
+  "manifest_url": "https://raw.githubusercontent.com/DustWorx/dustworx-ecu-firmware-releases/main/manifests/dustworx-ecu-v0.18.51-true-watchdog-ota.manifest.json"
 }
