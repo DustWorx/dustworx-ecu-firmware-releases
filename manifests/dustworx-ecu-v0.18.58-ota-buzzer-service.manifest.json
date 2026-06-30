@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v0.18.58-ota-buzzer-service",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v0.18.58-ota-buzzer-service/dustworx-ecu-v0.18.58-ota-buzzer-service.bin",
+  "firmware_size": 1166524,
+  "firmware_sha256": "9a0467b7d42512ae3c52cc7af1dbc9ba2559e1d0be1e15169a2a3a4cfc207390",
+  "rollback_allowed": true,
+  "release_notes": "Service buzzer timing during OTA long operations",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEYCIQC7PVVyV1alsM1eqlgUpibA+E8Laj4GNVsmruEc+l+OgAIhAPe3SLkiCmi2V7RTiZTDv+1ZIXYBvCyi9M3xFUel+YDc"
+}
