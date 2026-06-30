@@ -1,7 +1,7 @@
 {
   "product": "dustworx-ecu",
-  "hardware": "pico2w-waveshare35",
+  "hardware": "pico2w-native-ab",
   "channel": "stable",
-  "latest_version": "v0.18.55-ota-tls-host-ca",
-  "manifest_url": "https://raw.githubusercontent.com/DustWorx/dustworx-ecu-firmware-releases/main/manifests/dustworx-ecu-v0.18.55-ota-tls-host-ca.manifest.json"
+  "latest_version": "v0.18.57-ota-release-assets-ui",
+  "manifest_url": "https://raw.githubusercontent.com/DustWorx/dustworx-ecu-firmware-releases/main/manifests/dustworx-ecu-v0.18.57-ota-release-assets-ui.manifest.json"
 }
