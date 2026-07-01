@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc2",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc2/dustworx-ecu-v1.0.0-rc2.bin",
+  "firmware_size": 1166980,
+  "firmware_sha256": "70b4e47bea2310fb8986b9ff52578b10b33632224621c282eef6e016aa6978e0",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 2: A/B confirmation no longer rolls back on functional self-test faults",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEUCIQCFITJofKbMxYVg8WRsAioqC1sErrYmZCwv/RtaFmyQEQIgTma0sN1MB2B9LBDLS5oX1AZbMZYnggTrOoWOW8xxfnE="
+}
