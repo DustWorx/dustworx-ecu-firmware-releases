@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc10",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc10/dustworx-ecu-v1.0.0-rc10.bin",
+  "firmware_size": 1126612,
+  "firmware_sha256": "1d36d1546f5f45fd1d8ad4f29e0f5041bbd42719f17727d135aa73472422a4d9",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 10: DISPLAY submenu with brightness page and theme toggle",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEYCIQDicvp8PwWxXs5jUCLEEAY2Gntonz1oova7Jh4cfCS7QQIhAPhgKZ2TEmxOik5tGQFbfMoDwpXUslZROijUxUZGgaeY"
+}
