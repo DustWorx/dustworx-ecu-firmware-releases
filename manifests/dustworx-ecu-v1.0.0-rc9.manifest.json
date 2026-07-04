@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc9",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc9/dustworx-ecu-v1.0.0-rc9.bin",
+  "firmware_size": 1125556,
+  "firmware_sha256": "1d038c90a44dba96f15919e2049c887e4c6db3e58763229bf95c7d1e0b6ba825",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 9: display NIGHT/DAY theme setting with persisted FRAM migration",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEUCIHAJ5JhCRhkxVaX2fa6uOGam9JPQpKQOhSR6CwUb07AkAiEAqlVixXvZOM5XOpMKsGl926kC947W+a33iEFdFQQgVNQ="
+}
