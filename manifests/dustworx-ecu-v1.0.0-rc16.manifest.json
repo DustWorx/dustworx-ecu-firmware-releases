@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc16",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc16/dustworx-ecu-v1.0.0-rc16.bin",
+  "firmware_size": 1126724,
+  "firmware_sha256": "57af1e7b091e76586585498bd231e991bed1d3d4fe30d2146e987d04a83af03e",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 16: manual LCD recovery by holding MENU for 5 seconds",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEUCID4ReGmiarzUcanEsLc9XWCyMkx0SBZA6nmELhIFqIouAiEA4QNsSTkfSIfhAx2XjxB6dNHUxaxj3AsWQphaK2moGyQ="
+}
