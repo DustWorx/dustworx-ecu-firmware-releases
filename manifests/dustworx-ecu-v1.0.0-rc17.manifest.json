@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc17",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc17/dustworx-ecu-v1.0.0-rc17.bin",
+  "firmware_size": 1126724,
+  "firmware_sha256": "a6db75bbcba9837bbfa7098c01c59321890cb09747c59b7cda5e978f04fff9bb",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 17: reduce LCD SPI speed to 8 MHz for long motorcycle display harness EMI margin",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEQCIAUWK4yUgFJkBcn3etvk9gI410Ior7rLQEN/0L6QdvyLAiAcIuk0AZxmcGMyupTulnwSNL/k7L1UZ9CecBVUaj8ppA=="
+}
