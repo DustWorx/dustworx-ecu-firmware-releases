@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc15",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc15/dustworx-ecu-v1.0.0-rc15.bin",
+  "firmware_size": 1126372,
+  "firmware_sha256": "c24278961f83d4f525813e0dd83cfe89bd1b8792f638924bd5e7d0ff6c13731a",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 15: display rotated 180 degrees for final motorcycle mounting",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEUCIQC2xQUFuTjathJerVIT0ToZ4bYoEikVtOCTEz8n0qbg5wIgD4P1KgjRKYIaT2SrjnKTIZv8hWeI3wFFcdK7Fxsw43s="
+}
