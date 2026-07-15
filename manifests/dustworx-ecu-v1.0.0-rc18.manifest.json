@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc18",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc18/dustworx-ecu-v1.0.0-rc18.bin",
+  "firmware_size": 1125948,
+  "firmware_sha256": "6c162676a7a46189bee082377d08e6359971bc464be3ec26263cd580938f31bf",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 18: service hours from speed sensor, dashboard without RPM bar, speed wake, speed-based tip-over kill",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEUCIQDwmsIamKI04vYEmvHhx46hxBV/+nUpYqNAvaRx4J1segIgPshFfcksIKR+lTSXMX9Q6FW9c9Bd+MqjeNQqHtCd/Xk="
+}
