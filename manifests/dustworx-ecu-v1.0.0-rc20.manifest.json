@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc20",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc20/dustworx-ecu-v1.0.0-rc20.bin",
+  "firmware_size": 1125924,
+  "firmware_sha256": "b67dedc7d30de9fc80ed4103757d1779c4033759a38efdd305b2af4b88daf520",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 20: swap dashboard speed and coolant temperature positions",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEUCIQCX6GWOh9tb3tVbnonfmUeAuhWdnQNN7wgYCyKiXps5IgIgOYjfg1yUhrlG2oPq4ynPVFJn1u3YG/oBqdDuiE3ouww="
+}
