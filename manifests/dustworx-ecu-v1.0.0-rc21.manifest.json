@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc21",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc21/dustworx-ecu-v1.0.0-rc21.bin",
+  "firmware_size": 1126476,
+  "firmware_sha256": "682fc5d7fe865963b689af906ff2faa0712012457bd3e45588f8c068249b0108",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 21: one-time service ODO and service-hours correction to 6941.9 km and 273 h",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEUCIHukI4Em0H9LFJPHB+avwcIiQMFQTX862HsFQgrxPGKJAiEAtWX4YYs4LCQ9pVgW5odkUsC+cnmezukoH4CWTjykWnM="
+}
