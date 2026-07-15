@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "product": "dustworx-ecu",
+  "hardware": "pico2w-waveshare35",
+  "channel": "stable",
+  "version": "v1.0.0-rc19",
+  "min_bootloader": "ota-bl-v1",
+  "firmware_url": "https://github.com/DustWorx/dustworx-ecu-firmware-releases/releases/download/v1.0.0-rc19/dustworx-ecu-v1.0.0-rc19.bin",
+  "firmware_size": 1125924,
+  "firmware_sha256": "d0d3fe8995970533f56be4516b1b4925c86344b658da509be0aee1d0a31b3056",
+  "rollback_allowed": true,
+  "release_notes": "Release candidate 19: silent tip-over alarm with visible engine kill warning",
+  "signature_algorithm": "ECDSA_P256_SHA256",
+  "signature": "MEYCIQCPyfz2u4rV95De329fObjs/UwsCwQQOfmq6bxv5SejRQIhANi+t/5EiERWalurpp4frf1eHAuEo82cH1ifzVUGoCrN"
+}
